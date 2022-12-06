@@ -1,3 +1,5 @@
+----Built on top of Nidhugg
+
 Nidhugg is a bug-finding tool which targets bugs caused by concurrency
 and relaxed memory consistency in concurrent programs. It works on the
 level of LLVM internal representation, which means that it can be used
@@ -224,3 +226,7 @@ Contact / Bug Report
 
    Feedback, questions or bug reports should be reported as issues on
    Github.
+
+
+
+//// nidhuggc --tlccv
